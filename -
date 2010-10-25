@@ -1,0 +1,41 @@
+commit eedb0b798c84c73ee494fe7ba8629db0f504be09
+Author: devfuner <devfuner@gmail.com>
+Date:   Sun Oct 10 21:01:20 2010 +0900
+
+    JTextArea -> textArea1.java
+
+commit 1b889b906bd638543f3b9e73e6113d6c43edb50b
+Author: devfuner <devfuner@gmail.com>
+Date:   Sun Oct 10 20:46:45 2010 +0900
+
+    I'm studing about swing and awt
+
+commit 3fe740aa2da711a8925b5642644960c0a9ceb708
+Author: devfuner <devfuner@gmail.com>
+Date:   Sun Oct 10 16:05:10 2010 +0900
+
+    created MiniMusicPlayer2 and MiniMusicPlayer3
+
+commit 06ee8d76fbcf98f6028521ed0f8217d26e252760
+Author: devfuner <devfuner@gmail.com>
+Date:   Sun Oct 10 12:05:57 2010 +0900
+
+    created MiniMusicPlayer1.java and class file
+
+commit f49f98738b63991782d46c145192fdb949180261
+Author: devfuner <devfuner@gmail.com>
+Date:   Sun Oct 10 11:09:32 2010 +0900
+
+    created Animation.java and class file
+
+commit 7ca0f82748a3d295359c3517a47cbc02e222d7bc
+Author: devfuner <devfuner@gmail.com>
+Date:   Sun Oct 10 08:54:47 2010 +0900
+
+    created SimpleGui3C.java and class file
+
+commit fba4b5354b71adc445e10e94dccea2f1cefdb751
+Author: devfuner <devfuner@gmail.com>
+Date:   Sun Oct 10 08:27:47 2010 +0900
+
+    created MyDrawPanel.java
